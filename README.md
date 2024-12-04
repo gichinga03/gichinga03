@@ -13,45 +13,42 @@ Hi! I'm Maxwell, an enthusiastic and dedicated Computer Science student with a p
 
 ---
 
-## Education  
+## Cybersecurity  
 
-- **Bachelor of Science in Computer Science** (2023 - Present)  
-  - University of Nairobi, Nairobi  
+### **TryHackMe Profile**  
+🌐 [Visit My TryHackMe Profile](https://tryhackme.com/r/p/mwaura03)  
 
-- **Cisco Certified Network Associate (CCNA)** (April 2023 – July 2023)  
-  - African Advanced Level Telecommunications Institute (AFRALTI)  
-  - Skills:  
-    - Network Configuration and Management  
-    - Routing and Switching Protocols  
-    - IP Addressing and Subnetting  
-    - Network Connectivity  
-    - Security Implementations  
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/mwaura03.png)  
 
-- **KCSE High School Certificate** (2019 – 2022)  
-  - Mangu High School  
-  - Grade: A- (74 points)  
+- Completed multiple junior pentesting rooms  
+- Currently pursuing advanced Red Teaming studies  
+- Competed in **King of the Hill** challenges  
+- Ranked **Top 10% in Kenya** (Username: **gichinga03**)  
 
 ---
 
 ## Skills  
 
-- **Programming Languages**: Python, C++, C  
-- **Web Development**: HTML, CSS, JavaScript  
-- **Database Management**: MySQL, Oracle  
-- **Blockchain Technology**: Algorand  
-- Proficient with Microsoft Word, Visio, Excel, and PowerPoint  
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
 
----
+### **Web Development**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-## Cybersecurity Experience  
+### **Database Management**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)  
 
-- **TryHackMe Achievements**:  
-  - Completed multiple junior pentesting rooms.  
-  - Currently pursuing advanced Red Teaming studies.  
+### **Blockchain Technology**  
+![Algorand](https://img.shields.io/badge/-Algorand-000000?logo=algorand&logoColor=white)  
 
-- **King of the Hill Challenges**:  
-  - Successfully competed in various King of the Hill challenges.  
-  - Ranked **Top 10% in Kenya** (Username: **gichinga03**).  
+### **Cybersecurity Tools**  
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC88?logo=tryhackme&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
 
 ---
 
@@ -79,14 +76,6 @@ Hi! I'm Maxwell, an enthusiastic and dedicated Computer Science student with a p
 - **University of Nairobi Computer Science Club** (2023 - Present)  
   - Participate in coding challenges and workshops.  
   - Collaborate on team projects and engage in tech discussions.  
-
----
-
-## Hobbies  
-
-- Programming: Building software tools in my spare time  
-- Cybersecurity: Exploring and learning about ethical hacking  
-- CTF Competitions: Actively participating in challenges like PICO, TryHackMe, and King of the Hill  
 
 ---
 
